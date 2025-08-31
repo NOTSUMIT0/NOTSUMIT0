@@ -87,6 +87,8 @@ My very first repo — a place for quick testing and experimentation.
 ## Fun Fact
 I love music and often code to the rhythm of a good beat 🎶
 
+---
+
 ⭐ *Thanks for visiting! If you'd like to collaborate or just say hi, feel free to reach out* 😊
 
 
