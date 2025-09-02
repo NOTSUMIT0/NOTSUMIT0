@@ -45,13 +45,6 @@ An HTML-based project mimicking YouTube’s UI.
 
 ---
 
-### 👋 HELLO-WORLD  
-My very first repo — a place for quick testing and experimentation.  
-🔗 [Repository](https://github.com/NOTSUMIT0/HELLO-WORLD)
-
----
-
-
 ## 🛠 Tech Stack
 - **Languages**: Python, HTML, CSS, JavaScript (learning)  
 - **Frameworks**: Flask  
