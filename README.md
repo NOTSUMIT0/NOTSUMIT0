@@ -47,27 +47,34 @@ https://github.com/NOTSUMIT0/Simple-Blockchain-SnakeCoin
 
 ---
 
-### CAR-RACING
-A Python racing game project focused on basic game logic, user input handling, and interactive scripting.
+### Intrusion Detection System (IDS)
+
+A security-focused project designed to detect malicious network activity by analyzing traffic patterns and system behavior.
+The project explores core concepts of cybersecurity, networking, and anomaly detection, with an emphasis on understanding how intrusion detection systems operate in real-world environments.
 
 Repository:  
-https://github.com/NOTSUMIT0/CAR-RACING
+https://github.com/NOTSUMIT0/Intrusion-Detection-System
 
 ---
 
-### ANIME-WEBSITE
-A static website built using HTML and CSS to showcase layout structure and design fundamentals.
+### FutureGuard – Student Dropout Risk Prediction
+
+A collaborative full-stack machine learning platform designed to predict student dropout risk using academic and behavioral data.
+The system integrates backend services, data ingestion pipelines, and machine learning inference to provide actionable insights at the institutional level.
+
 
 Repository:  
-https://github.com/NOTSUMIT0/ANIME-WEBSITE
+https://github.com/NOTSUMIT0/future-guard
 
 ---
 
-### Static-YouTube-Clone
-A front-end UI project replicating the basic structure of YouTube using HTML and CSS.
+### PyChain – A Lightweight Blockchain Prototype
+
+A Python-based blockchain implementation built to demonstrate core blockchain principles such as block creation, hashing, transaction validation, and chain integrity.
+The project focuses on simplicity and clarity while showcasing how decentralized ledgers work at a fundamental level.
 
 Repository:  
-https://github.com/NOTSUMIT0/Static-Youtube-Clone-
+https://github.com/NOTSUMIT0/PyChain---A-Lightweight-Blockchain-Prototype
 
 ---
 
