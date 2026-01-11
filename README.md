@@ -97,7 +97,7 @@ I am open to collaborating on:
 
 - Email: kumarsumeet683@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/sumit-kumar010/  
-- Twitter/X: https://x.com/NOT_SUMIT_
+- Twitter/X: [https://x.com/NOT_SUMIT_](https://x.com/NOT_SUMIT_)
 
 ---
 
