@@ -1,7 +1,5 @@
 # Sumit Kumar
 
----
-
 ## About Me
 
 I am a third-year undergraduate **B.Tech (CSE)** student from India with hands-on experience in software development and full-stack web applications.  
