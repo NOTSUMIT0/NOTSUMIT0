@@ -1,97 +1,120 @@
+# Sumit Kumar
 
-# Hi there, I’m **Sumit Kumar** 👋
-
-**Hello, I'm Sumit Kumar | Third-year student | Curious to explore new technologies | Passionate about building & learning | Sharing my coding journey on GitHub 🚀**
-
----
-
-## 🌟 About Me
-- A passionate learner exploring **web development**, **mobile apps**, and **blockchain**.
-- Proficient in **Python**, **Flask**, **HTML**, **CSS**, and **SQLite**.
-- Currently on my way to becoming a **full-stack developer**, creating interactive web and mobile applications.
-- Love working on projects that challenge me and help me grow.
+Third-year undergraduate student with a strong interest in software development and emerging technologies.  
+Passionate about building practical projects, learning by doing, and continuously improving my technical skills through hands-on development and experimentation.
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🛒 FlaskMarket  
-A fully functional e-commerce web app built with Flask, HTML, CSS, and SQLite. Features user registration, product browsing, cart management, and order tracking.  
-🔗 [Repository](https://github.com/NOTSUMIT0/FlaskMarket)
+I am a motivated and curious developer who enjoys working across different areas of software development.  
+My primary interests include full-stack web development, backend systems, and exploring modern technologies through real-world projects.
 
----
-
-### ⛓ Simple-Blockchain-SnakeCoin  
-A Python-based blockchain prototype that simulates block creation, mining via proof-of-work, secure transaction linking, and timestamped block storage.  
-🔗 [Repository](https://github.com/NOTSUMIT0/Simple-Blockchain-SnakeCoin)
+I believe in writing clean, understandable code and learning concepts deeply rather than just using tools at a surface level. GitHub is where I document my learning journey and showcase my work.
 
 ---
 
-### 🏎 CAR-RACING  
-Python-based racing project (details can be expanded here).  
-🔗 [Repository](https://github.com/NOTSUMIT0/CAR-RACING)
+## Tech Stack
+
+**Programming Languages**
+- Python
+- JavaScript (learning)
+- HTML
+- CSS
+
+**Frameworks & Tools**
+- Flask
+- Git & GitHub
+
+**Databases**
+- SQLite
+
+**Core Interests**
+- Full-stack web development
+- Backend logic and APIs
+- Blockchain fundamentals
+- UI structure and layout design
 
 ---
 
-### 🎌 ANIME-WEBSITE  
-A static HTML site showcasing clean design and layout skills.  
-🔗 [Repository](https://github.com/NOTSUMIT0/ANIME-WEBSITE)
+## Featured Projects
+
+### FlaskMarket
+A full-stack e-commerce web application built using Flask and SQLite.  
+Includes user authentication, product listings, cart functionality, and order management.
+
+Repository:  
+https://github.com/NOTSUMIT0/FlaskMarket
 
 ---
 
-### ▶️ Static-YouTube-Clone  
-An HTML-based project mimicking YouTube’s UI.  
-🔗 [Repository](https://github.com/NOTSUMIT0/Static-Youtube-Clone-)
+### Simple-Blockchain-SnakeCoin
+A Python-based blockchain implementation demonstrating core blockchain concepts such as block creation, hashing, proof-of-work mining, and transaction chaining.
+
+Repository:  
+https://github.com/NOTSUMIT0/Simple-Blockchain-SnakeCoin
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, HTML, CSS, JavaScript (learning)  
-- **Frameworks**: Flask  
-- **Database**: SQLite  
-- **Focus Areas**: Full-stack development, e-commerce logic, blockchain basics, UI/UX design  
+### CAR-RACING
+A Python-based game project focused on logic building, user interaction, and basic game mechanics.
+
+Repository:  
+https://github.com/NOTSUMIT0/CAR-RACING
 
 ---
 
-## 📌 What I’m Up To
-- Building **full-stack web apps** with modern frameworks.  
-- Learning **mobile app development** to expand my skills.  
-- Exploring **interactive and scalable applications**.  
-- Open to collaborating on creative open-source projects.  
+### ANIME-WEBSITE
+A static website project showcasing layout design and front-end structuring using HTML and CSS.
+
+Repository:  
+https://github.com/NOTSUMIT0/ANIME-WEBSITE
 
 ---
 
-## 📫 Let’s Connect
-- Email: [Sumit Kumar](kumarsumeet683@gmail.com)
-- Linkedin: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar010/) 
+### Static-YouTube-Clone
+A front-end project replicating the basic user interface of YouTube using HTML and CSS.
+
+Repository:  
+https://github.com/NOTSUMIT0/Static-Youtube-Clone-
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOTSUMIT0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOTSUMIT0&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NOTSUMIT0&theme=tokyonight&hide_border=false)
-
----
-
-## Fun Fact
-I love music and often code to the rhythm of a good beat 🎶
+- Strengthening full-stack development skills
+- Improving backend architecture and API design
+- Learning mobile application development
+- Exploring scalable and real-world application design
+- Building projects that reflect both logic and usability
 
 ---
 
-⭐ *Thanks for visiting! If you'd like to collaborate or just say hi, feel free to reach out* 😊
+## Collaboration
 
+I am open to:
+- Collaborating on student-led or open-source projects
+- Learning through team-based development
+- Contributing to meaningful and skill-building repositories
+- Working with peers who are passionate about technology and development
 
- 
+If you are interested in collaborating, feel free to reach out.
 
+---
 
+## Let’s Connect
 
+- Email: kumarsumeet683@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sumit-kumar010/  
+- Twitter/X: https://twitter.com/your_username_here  
 
+---
 
+## GitHub Stats
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
 
+---
 
-
+Thank you for visiting my profile.  
+I’m always learning, building, and improving.
