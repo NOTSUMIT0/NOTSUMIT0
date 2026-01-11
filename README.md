@@ -91,15 +91,13 @@ I am open to collaborating on:
 - Learning-driven development teams
 - Projects that emphasize clean logic and scalability
 
-Feel free to reach out if you’d like to collaborate or discuss ideas.
-
 ---
 
 ## Contact
 
 - Email: kumarsumeet683@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/sumit-kumar010/  
-- Twitter/X: https://twitter.com/your_username_here  
+- Twitter/X: https://x.com/NOT_SUMIT_
 
 ---
 
