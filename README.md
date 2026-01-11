@@ -4,35 +4,30 @@
 
 ## About Me
 
-I am a third-year undergraduate student from India with hands-on experience in software development and full-stack web applications.  
+I am a third-year undergraduate **B.Tech (CSE)** student from India with hands-on experience in software development and full-stack web applications.  
 I focus on building practical, real-world projects that strengthen my understanding of backend systems, web architecture, and user-facing applications.
 
 My approach to learning is project-driven. I enjoy breaking down complex problems, writing clean code, and continuously improving through experimentation and collaboration.
 
 My primary interests include:
-- Full-stack web development using Python and Flask
+- Full-stack web development using Python and Flask 
 - Backend logic, APIs, and database design
-- UI structure and front-end fundamentals
-- Exploring blockchain concepts and system-level workflows
+- Backend architecture and role-based workflows
+- Building deployable, portfolio-grade products
 
 ---
 
 ## Tech Stack
 
-**Frontend:**  
-HTML, CSS, JavaScript, React Native (Expo – learning)
+**Languages:**  C, C++, Python, JavaScript
 
-**Backend:**  
-Python, Flask, REST APIs
+**Frontend:**  HTML, CSS, Tailwind, React Native (Expo – learning)
 
-**Databases:**  
-SQLite, MongoDB (learning)
+**Backend:**  Python, Flask, REST APIs, FastAPI
 
-**Tools & Platforms:**  
-Git, GitHub
+**Databases:**  MySQL, SQLite, MongoDB (learning), Supabase
 
-**Core Focus Areas:**  
-Full-stack development, backend architecture, project-based learning, UI structure
+**Tools & Platforms:**  Git, GitHub, Android Studio
 
 ---
 
@@ -110,4 +105,9 @@ Feel free to reach out if you’d like to collaborate or discuss ideas.
 
 ## GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false" />
+  </a>
+</p>
+
