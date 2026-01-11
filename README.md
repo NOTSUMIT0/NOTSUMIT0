@@ -2,8 +2,7 @@
 
 ## About Me
 
-I am a third-year undergraduate **B.Tech (CSE)** student from India with hands-on experience in software development and full-stack web applications.  
-I focus on building practical, real-world projects that strengthen my understanding of backend systems, web architecture, and user-facing applications.
+I am a third-year undergraduate **B.Tech (CSE)** student from India with hands-on experience in software development and full-stack web applications. I focus on building practical, real-world projects that strengthen my understanding of backend systems, web architecture, and user-facing applications.
 
 My approach to learning is project-driven. I enjoy breaking down complex problems, writing clean code, and continuously improving through experimentation and collaboration.
 
