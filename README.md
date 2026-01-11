@@ -1,120 +1,107 @@
 # Sumit Kumar
 
-Third-year undergraduate student with a strong interest in software development and emerging technologies.  
-Passionate about building practical projects, learning by doing, and continuously improving my technical skills through hands-on development and experimentation.
-
----
-
 ## About Me
 
-I am a motivated and curious developer who enjoys working across different areas of software development.  
-My primary interests include full-stack web development, backend systems, and exploring modern technologies through real-world projects.
+I am a third-year undergraduate student from India focused on software development and full-stack web applications.  
+I enjoy building real projects that demonstrate problem solving, clean architecture, and practical use cases.  
+On GitHub, I share my coding journey, experiment with new ideas, and build solutions that help me learn and grow as a developer.
 
-I believe in writing clean, understandable code and learning concepts deeply rather than just using tools at a surface level. GitHub is where I document my learning journey and showcase my work.
+My primary areas of focus include:
+- Full-stack web development using Python, Flask, and traditional web technologies
+- Backend logic, API design, and database integration
+- UI/UX structure and front-end fundamentals
+- Exploring blockchain basics and dynamic system concepts
 
 ---
 
 ## Tech Stack
 
-**Programming Languages**
-- Python
-- JavaScript (learning)
-- HTML
-- CSS
+**Languages**  
+Python, HTML, CSS, JavaScript (learning)
 
-**Frameworks & Tools**
-- Flask
-- Git & GitHub
+**Frameworks & Tools**  
+Flask, Git, GitHub
 
-**Databases**
-- SQLite
+**Database**  
+SQLite
 
-**Core Interests**
-- Full-stack web development
-- Backend logic and APIs
-- Blockchain fundamentals
-- UI structure and layout design
+**Areas of Interest**  
+Full-stack development, backend workflows, reusable systems, interactive UI
 
 ---
 
 ## Featured Projects
 
 ### FlaskMarket
-A full-stack e-commerce web application built using Flask and SQLite.  
-Includes user authentication, product listings, cart functionality, and order management.
 
-Repository:  
-https://github.com/NOTSUMIT0/FlaskMarket
+A full-stack e-commerce application built using Flask and SQLite.  
+Includes user registration, product browsing, cart functionality, and order tracking.
+
+Repository: https://github.com/NOTSUMIT0/FlaskMarket
 
 ---
 
 ### Simple-Blockchain-SnakeCoin
-A Python-based blockchain implementation demonstrating core blockchain concepts such as block creation, hashing, proof-of-work mining, and transaction chaining.
 
-Repository:  
-https://github.com/NOTSUMIT0/Simple-Blockchain-SnakeCoin
+A Python blockchain prototype demonstrating hashing, proof-of-work mining, block creation, and linked transactions.
+
+Repository: https://github.com/NOTSUMIT0/Simple-Blockchain-SnakeCoin
 
 ---
 
 ### CAR-RACING
-A Python-based game project focused on logic building, user interaction, and basic game mechanics.
 
-Repository:  
-https://github.com/NOTSUMIT0/CAR-RACING
+A Python-based racing project focused on basic game logic and interactive scripting.
+
+Repository: https://github.com/NOTSUMIT0/CAR-RACING
 
 ---
 
 ### ANIME-WEBSITE
-A static website project showcasing layout design and front-end structuring using HTML and CSS.
 
-Repository:  
-https://github.com/NOTSUMIT0/ANIME-WEBSITE
+Static HTML/CSS website showcasing layout and design structure.
+
+Repository: https://github.com/NOTSUMIT0/ANIME-WEBSITE
 
 ---
 
 ### Static-YouTube-Clone
-A front-end project replicating the basic user interface of YouTube using HTML and CSS.
 
-Repository:  
-https://github.com/NOTSUMIT0/Static-Youtube-Clone-
+HTML/CSS project mimicking the YouTube user interface structure.
+
+Repository: https://github.com/NOTSUMIT0/Static-Youtube-Clone-
 
 ---
 
 ## Current Focus
 
-- Strengthening full-stack development skills
-- Improving backend architecture and API design
-- Learning mobile application development
-- Exploring scalable and real-world application design
-- Building projects that reflect both logic and usability
+- Building scalable full-stack web applications
+- Improving backend logic and clean code architecture
+- Learning mobile app development workflows
+- Developing practical features that reflect real-world usage
 
 ---
 
 ## Collaboration
 
-I am open to:
-- Collaborating on student-led or open-source projects
-- Learning through team-based development
-- Contributing to meaningful and skill-building repositories
-- Working with peers who are passionate about technology and development
+Open to collaborating on:
+- Full-stack web platforms
+- Backend workflows and API-driven systems
+- Projects involving data handling or automation
+- Open-source and student-led initiatives
 
-If you are interested in collaborating, feel free to reach out.
+If you want to work together or share ideas, feel free to reach out.
 
 ---
 
-## Let’s Connect
+## Contact
 
 - Email: kumarsumeet683@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/sumit-kumar010/  
-- Twitter/X: https://twitter.com/your_username_here  
+- Twitter: https://twitter.com/your_username_here
 
 ---
 
 ## GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
-
----
-
-Thank you for visiting my profile.  
-I’m always learning, building, and improving.
