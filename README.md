@@ -109,27 +109,8 @@ I am open to collaborating on:
 
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=github&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=false" />
   </a>
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOTSUMIT0&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NOTSUMIT0?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOTSUMIT0&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 
