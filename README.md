@@ -2,108 +2,75 @@
 
 ## About Me
 
-I am a third-year undergraduate **B.Tech (CSE)** student from India with hands-on experience in software development and full-stack web applications. I focus on building practical, real-world projects that strengthen my understanding of backend systems, web architecture, and user-facing applications.
+I am a B.Tech Computer Science student from India with a strong interest in software engineering, cybersecurity, and embedded systems. I enjoy building practical, real-world projects that combine modern software development with intelligent systems and hardware.
 
-My approach to learning is project-driven. I enjoy breaking down complex problems, writing clean code, and continuously improving through experimentation and collaboration.
+My learning approach is project-driven. I like designing scalable applications, exploring system architecture, building secure software, and experimenting with embedded platforms to solve real problems.
 
 My primary interests include:
-- Full-stack web development using Python and Flask 
-- Backend logic, APIs, and database design
-- Backend architecture and role-based workflows
-- Building deployable, portfolio-grade products
 
----
-
-## Tech Stack
-
-**Languages:**  C, C++, Python, JavaScript
-
-**Frontend:**  HTML, CSS, Tailwind, React Native (Expo – learning)
-
-**Backend:**  Python, Flask, REST APIs, FastAPI
-
-**Databases:**  MySQL, SQLite, MongoDB (learning), Supabase
-
-**Tools & Platforms:**  Git, GitHub, Android Studio
-
----
+* Full-stack application development
+* Backend systems, APIs, and scalable architectures
+* Cybersecurity and network security
+* Embedded systems, IoT, and edge computing
+* AI-powered developer tools and automation
 
 ## Featured Projects
 
-### FlaskMarket
-A full-stack e-commerce web application built with Flask and SQLite.  
-Includes user authentication, product listings, cart management, and order tracking.
+### Intrusion Detection System (Hybrid IDS with SIEM Dashboard)
 
-Repository:  
-https://github.com/NOTSUMIT0/FlaskMarket
+A hybrid Intrusion Detection System that analyzes live network traffic and PCAP files using signature and anomaly-based detection. Features a real-time SIEM dashboard, MITRE ATT&CK mapping, threat analytics, and incident reporting.
 
----
-
-### Simple-Blockchain-SnakeCoin
-A Python-based blockchain prototype demonstrating block creation, hashing, proof-of-work mining, and transaction chaining.
-
-Repository:  
-https://github.com/NOTSUMIT0/Simple-Blockchain-SnakeCoin
-
----
-
-### Intrusion Detection System (IDS)
-
-A security-focused project designed to detect malicious network activity by analyzing traffic patterns and system behavior.
-The project explores core concepts of cybersecurity, networking, and anomaly detection, with an emphasis on understanding how intrusion detection systems operate in real-world environments.
-
-Repository:  
+**Repository:**
 https://github.com/NOTSUMIT0/Intrusion-Detection-System
 
 ---
 
 ### FutureGuard – Student Dropout Risk Prediction
 
-A collaborative full-stack machine learning platform designed to predict student dropout risk using academic and behavioral data.
-The system integrates backend services, data ingestion pipelines, and machine learning inference to provide actionable insights at the institutional level.
+A full-stack machine learning platform that predicts student dropout risk using academic and behavioral data. Includes role-based dashboards, explainable AI predictions, analytics, and institutional reporting.
 
-
-Repository:  
+**Repository:**
 https://github.com/NOTSUMIT0/future-guard
 
 ---
 
-### PyChain – A Lightweight Blockchain Prototype
+### STC – Student Teaching Companion
 
-A Python-based blockchain implementation built to demonstrate core blockchain principles such as block creation, hashing, transaction validation, and chain integrity.
-The project focuses on simplicity and clarity while showcasing how decentralized ledgers work at a fundamental level.
+An AI-powered learning platform designed to assist students through interactive educational tools and personalized learning workflows. Built as a full-stack application with a focus on improving the digital learning experience.
 
-Repository:  
-https://github.com/NOTSUMIT0/PyChain---A-Lightweight-Blockchain-Prototype
+**Repository:**
+https://github.com/NOTSUMIT0/STC
 
 ---
+
+### Altair – AI Document & Media Processing Platform
+
+A desktop application that converts documents, images, audio, video, and YouTube content into AI-ready formats such as Markdown, TXT, and JSON. Supports OCR, speech-to-text, batch conversion, and local-first processing for privacy.
+
+**Repository:**
+https://github.com/NOTSUMIT0/Altair
+
 
 ## Current Focus
 
-- Strengthening full-stack development fundamentals
-- Improving backend workflows and API design
-- Learning mobile application development
-- Building portfolio-ready projects with real-world relevance
+- Building embedded systems and IoT projects using Arduino, ESP32, and FPGA platforms
+- Strengthening cybersecurity skills through practical security tools and research
+- Improving backend architecture, REST APIs, and scalable application design
+- Developing AI-powered desktop applications and developer tools
+- Exploring edge AI, embedded ML, and hardware-software integration
 
----
 
 ## Collaboration
 
 I am open to collaborating on:
-- Full-stack and backend-focused projects
-- Student-led or open-source initiatives
-- Learning-driven development teams
-- Projects that emphasize clean logic and scalability
 
----
+- Full-stack web and desktop applications
+- Backend systems and API development
+- Cybersecurity and network security projects
+- Embedded systems, IoT, and edge computing
+- AI-powered developer tools and automation
+- Open-source projects and student-led initiatives
 
-## Contact
-
-- Email: kumarsumeet683@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sumit-kumar010/  
-- Twitter/X: [https://x.com/NOT_SUMIT_](https://x.com/NOT_SUMIT_)
-
----
 
 ## GitHub Stats
 
